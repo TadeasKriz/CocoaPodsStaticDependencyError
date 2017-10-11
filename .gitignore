@@ -1,0 +1,6 @@
+.DS_Store
+Gemfile
+Gemfile.lock
+Pods
+SampleApp.xcworkspace/xcuserdata
+SampleApp.xcodeproj/xcuserdata
