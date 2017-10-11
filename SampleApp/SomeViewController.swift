@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Google
+import FirebaseAnalytics
 import SampleFramework
 
 class SomeViewController: UIViewController {

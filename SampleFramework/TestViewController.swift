@@ -7,8 +7,7 @@
 //
 
 import UIKit
-import Google
-import GoogleSignIn
+import FirebaseAnalytics
 
 public class TestViewController: UIViewController {
 

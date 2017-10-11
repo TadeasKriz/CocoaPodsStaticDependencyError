@@ -8,6 +8,6 @@ end
 
 target 'SampleFramework' do
   pod 'CocoaLumberjack'
-  pod 'Google/SignIn', '~> 3.0.3'
+  pod 'FirebaseAnalytics'
 end
 
